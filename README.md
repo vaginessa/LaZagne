@@ -52,6 +52,7 @@ laZagne.exe browsers -h
 ```
 
 
+
 * Change verbosity mode (2 different levels)
 ```
 laZagne.exe all -vv
